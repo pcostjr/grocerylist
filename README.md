@@ -20,6 +20,13 @@ Remember, this shouldn't *modify* the list itself, rather it should change the w
 ### Exit 	
 - End the program and offer the user the option to display / not display the entire list at the end.
 
+# Example Images
+--- 
+## Sample Main Menu
+![A sample menu labeled with numbers 1 to four for each function](./menu_example.png)
+
+## Sample Output Format
+![A sample grocery list output format.](./output_example.png)
 ## Part II: Additional Functions
 ---
 This is still a fairly simple project, so we can't necessarily add all sorts of crazy functionality...yet.
