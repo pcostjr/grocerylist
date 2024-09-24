@@ -4,7 +4,7 @@
 ## Part I: Basic Functionality
 ---
 In order for your grocery list to be considered “complete” in its most basic form, it should have the following functionality:
--[ ]Add an Item
+-[x]Add an Item
 -[ ]Add an item to the end of the list. 
 -[ ]Each List item has a name, price, and quantity of purchase (ex:// “Beans”, $2.45, 3)
 Remove an Item
